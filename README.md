@@ -19,15 +19,6 @@ information. The target variable is Survived (binary classification).
 | Random Forest | 0.815642         |0.837154 |0.764706 |0.753623 |0.759124 |0.609858 |
 | XGBoost |  0.826816        | 0.834651|0.796875 |0.739130 |0.766917 |0.630576 |
 
-Model Evaluation Results:
-
-           Model  Accuracy       AUC  Precision    Recall  F1 Score       MCC
-0       logistic  0.810056  0.861001   0.796610  0.681159  0.734375  0.592314
-1  decision_tree  0.793296  0.776548   0.735294  0.724638  0.729927  0.562560
-2            knn  0.804469  0.857642   0.757576  0.724638  0.740741  0.584286
-3    naive_bayes  0.793296  0.845982   0.716216  0.768116  0.741259  0.570482
-4  random_forest  0.815642  0.837154   0.764706  0.753623  0.759124  0.609858
-5        xgboost  0.826816  0.834651   0.796875  0.739130  0.766917  0.630576
 
 ## Model Observations
 
